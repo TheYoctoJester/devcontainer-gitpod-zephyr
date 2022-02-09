@@ -12,4 +12,4 @@ WORKDIR $HOME
 ### Gitpod user (2) ###
 USER gitpod
 # use sudo so that user does not get sudo usage info on (the first) login
-RUN sudo echo "Running 'sudo' for Gitpod: success"
+RUN sudo echo "Running 'sudo' for gitpod: success"
