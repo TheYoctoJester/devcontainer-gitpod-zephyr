@@ -1,4 +1,4 @@
-FROM theyoctojester/devcontainer-base-yoep:main
+FROM theyoctojester/devcontainer-base-zephyr:main
 
 ### Gitpod user ###
 # '-l': see https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
