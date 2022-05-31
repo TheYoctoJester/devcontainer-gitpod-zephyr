@@ -5,7 +5,7 @@ on:
     branches: [ main, focal, jammy ]
   pull_request:
     branches: [ main, focal, jammy ]
-  workflow-dispatch:
+  workflow_dispatch:
 
 jobs:
 
